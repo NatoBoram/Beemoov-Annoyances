@@ -17,6 +17,15 @@ eldarya.ru###header-login-fb
 eldarya.com###header-login-fb
 eldarya.fr###header-login-fb
 
+! Beemoov - Beemoov Banner
+beemoov.com###beemoov
+
+! Ma Bimbo - Beemoov Banner
+ma-bimbo.com###beemoov
+
+! Amour Sucré - Beemoov Banner
+amoursucre.com###beemoov
+
 ! Eldarya - Beemoov Banner
 eldarya.com.br###beemoov
 eldarya.br###beemoov
