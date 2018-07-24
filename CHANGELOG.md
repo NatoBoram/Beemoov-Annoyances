@@ -18,7 +18,24 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.0.1] - 2018-07-24
+
+### Added
+
+* Block the Beemoov Banner on Le Secret d'Henri
+
 ## [1.0.0] - 2018-07-24
+
+### Added
+
+* Block the Facebook banner on Eldarya
+* Block the Beemoov Banner on the following websites
+	* Beemoov
+	* Ma Bimbo
+	* Amour Sucré
+	* Eldarya
+* Block "End Exploration Now" on Eldarya
+* Block "Explore Now" on Eldarya
 
 ## About this changelog
 
