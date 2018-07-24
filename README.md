@@ -1,4 +1,4 @@
-# Beemoov-Annoyances
+# Beemoov Annoyances Filter List
 
 Block some of Eldarya's annoyances.
 
