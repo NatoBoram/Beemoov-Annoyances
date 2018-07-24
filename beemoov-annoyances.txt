@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Beemoov Annoyances
 ! Description: Block annoyances on Beemoov's websites.
-! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
+! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Forums: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
+! Version: 1.0.0
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
