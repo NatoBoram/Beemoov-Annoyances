@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.0.2] - 2018-07-24
+
+### Added
+
+* Block the Facebook page from Eldarya's front page
+
 ## [1.0.1] - 2018-07-24
 
 ### Added

@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.0.1
+! Version: 1.0.2
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -41,6 +41,18 @@ eldarya.fr###beemoov
 
 ! Le Secret d'Henri - Beemoov Banner
 lesecretdhenri.com###beemoov
+
+! Eldarya - Facebook Page
+eldarya.com.br###index-social
+eldarya.br###index-social
+eldarya.de###index-social
+eldarya.es###index-social
+eldarya.hu###index-social
+eldarya.it###index-social
+eldarya.pl###index-social
+eldarya.ru###index-social
+eldarya.com###index-social
+eldarya.fr###index-social
 
 ! Eldarya - End Exploration Now
 eldarya.com.br###endExploration-now
