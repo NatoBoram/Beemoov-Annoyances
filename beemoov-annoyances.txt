@@ -1,0 +1,54 @@
+[Adblock Plus 2.0]
+! Title: Beemoov Annoyances
+! Description: Block annoyances on Beemoov's websites.
+! License: https://www.gnu.org/licenses/gpl-3.0.html
+! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
+! Forums: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
+
+! Eldarya - Facebook Header
+eldarya.com.br###header-login-fb
+eldarya.br###header-login-fb
+eldarya.de###header-login-fb
+eldarya.es###header-login-fb
+eldarya.hu###header-login-fb
+eldarya.it###header-login-fb
+eldarya.pl###header-login-fb
+eldarya.ru###header-login-fb
+eldarya.com###header-login-fb
+eldarya.fr###header-login-fb
+
+! Eldarya - Beemoov Banner
+eldarya.com.br###beemoov
+eldarya.br###beemoov
+eldarya.de###beemoov
+eldarya.es###beemoov
+eldarya.hu###beemoov
+eldarya.it###beemoov
+eldarya.pl###beemoov
+eldarya.ru###beemoov
+eldarya.com###beemoov
+eldarya.fr###beemoov
+
+! Eldarya - End Exploration Now
+eldarya.com.br###endExploration-now
+eldarya.br###endExploration-now
+eldarya.de###endExploration-now
+eldarya.es###endExploration-now
+eldarya.hu###endExploration-now
+eldarya.it###endExploration-now
+eldarya.pl###endExploration-now
+eldarya.ru###endExploration-now
+eldarya.com###endExploration-now
+eldarya.fr###endExploration-now
+
+! Eldarya - Explore Now
+eldarya.com.br##.flavr-button.button.button-gold
+eldarya.br##.flavr-button.button.button-gold
+eldarya.de##.flavr-button.button.button-gold
+eldarya.es##.flavr-button.button.button-gold
+eldarya.hu##.flavr-button.button.button-gold
+eldarya.it##.flavr-button.button.button-gold
+eldarya.pl##.flavr-button.button.button-gold
+eldarya.ru##.flavr-button.button.button-gold
+eldarya.com##.flavr-button.button.button-gold
+eldarya.fr##.flavr-button.button.button-gold
