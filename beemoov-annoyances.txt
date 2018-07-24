@@ -3,7 +3,7 @@
 ! Description: Block annoyances on Beemoov's websites.
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
-! Forums: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
+! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
 ! Version: 1.0.1
 
 ! Eldarya - Facebook Header
