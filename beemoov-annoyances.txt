@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.0.2
+! Version: 1.0.3
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -77,3 +77,27 @@ eldarya.pl##.flavr-button.button.button-gold
 eldarya.ru##.flavr-button.button.button-gold
 eldarya.com##.flavr-button.button.button-gold
 eldarya.fr##.flavr-button.button.button-gold
+
+! Eldarya - Skip Missions
+eldarya.com.br###skip-missions
+eldarya.br###skip-missions
+eldarya.de###skip-missions
+eldarya.es###skip-missions
+eldarya.hu###skip-missions
+eldarya.it###skip-missions
+eldarya.pl###skip-missions
+eldarya.ru###skip-missions
+eldarya.com###skip-missions
+eldarya.fr###skip-missions
+
+! Eldarya - Wheel Fortune
+eldarya.com.br###wheel-fortune
+eldarya.br###wheel-fortune
+eldarya.de###wheel-fortune
+eldarya.es###wheel-fortune
+eldarya.hu###wheel-fortune
+eldarya.it###wheel-fortune
+eldarya.pl###wheel-fortune
+eldarya.ru###wheel-fortune
+eldarya.com###wheel-fortune
+eldarya.fr###wheel-fortune

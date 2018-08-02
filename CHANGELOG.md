@@ -18,6 +18,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.0.3] - 2018-08-01
+
+### Added
+
+* Added Skip Missions on Eldarya's 2018 summer event
+* Added Wheel Fortune on Eldarya's 2018 summer event
+
 ## [1.0.2] - 2018-07-24
 
 ### Added
