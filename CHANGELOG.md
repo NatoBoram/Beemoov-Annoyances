@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.0.4] - 2018-10-24
+
+### Added
+
+* Added Buy Fragment on Eldarya's 2018 Halloween event
+
 ## [1.0.3] - 2018-08-01
 
 ### Added

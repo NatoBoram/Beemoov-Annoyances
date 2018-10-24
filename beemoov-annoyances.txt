@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.0.3
+! Version: 1.0.4
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -101,3 +101,15 @@ eldarya.pl###wheel-fortune
 eldarya.ru###wheel-fortune
 eldarya.com###wheel-fortune
 eldarya.fr###wheel-fortune
+
+! Eldarya - Buy Fragment
+eldarya.com.br###buy-fragment
+eldarya.br###buy-fragment
+eldarya.de###buy-fragment
+eldarya.es###buy-fragment
+eldarya.hu###buy-fragment
+eldarya.it###buy-fragment
+eldarya.pl###buy-fragment
+eldarya.ru###buy-fragment
+eldarya.com###buy-fragment
+eldarya.fr###buy-fragment
