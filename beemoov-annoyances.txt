@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.0.4
+! Version: 1.1.0
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -113,3 +113,63 @@ eldarya.pl###buy-fragment
 eldarya.ru###buy-fragment
 eldarya.com###buy-fragment
 eldarya.fr###buy-fragment
+
+! Eldarya - Home content bank
+eldarya.com.br###home-bank
+eldarya.br###home-bank
+eldarya.de###home-bank
+eldarya.es###home-bank
+eldarya.hu###home-bank
+eldarya.it###home-bank
+eldarya.pl###home-bank
+eldarya.ru###home-bank
+eldarya.com###home-bank
+eldarya.fr###home-bank
+
+! Eldarya - Main menu bank
+eldarya.com.br##.main-menu-bank
+eldarya.br##.main-menu-bank
+eldarya.de##.main-menu-bank
+eldarya.es##.main-menu-bank
+eldarya.hu##.main-menu-bank
+eldarya.it##.main-menu-bank
+eldarya.pl##.main-menu-bank
+eldarya.ru##.main-menu-bank
+eldarya.com##.main-menu-bank
+eldarya.fr##.main-menu-bank
+
+! Eldarya - Explore now
+eldarya.com.br###explore-now-button
+eldarya.br###explore-now-button
+eldarya.de###explore-now-button
+eldarya.es###explore-now-button
+eldarya.hu###explore-now-button
+eldarya.it###explore-now-button
+eldarya.pl###explore-now-button
+eldarya.ru###explore-now-button
+eldarya.com###explore-now-button
+eldarya.fr###explore-now-button
+
+! Eldarya - End exploration now
+eldarya.com.br###pending-actions .gold-button
+eldarya.br###pending-actions .gold-button
+eldarya.de###pending-actions .gold-button
+eldarya.es###pending-actions .gold-button
+eldarya.hu###pending-actions .gold-button
+eldarya.it###pending-actions .gold-button
+eldarya.pl###pending-actions .gold-button
+eldarya.ru###pending-actions .gold-button
+eldarya.com###pending-actions .gold-button
+eldarya.fr###pending-actions .gold-button
+
+! Eldarya - Reexplore now
+eldarya.com.br###treasure-hunt-result-actions .gold-button
+eldarya.br###treasure-hunt-result-actions .gold-button
+eldarya.de###treasure-hunt-result-actions .gold-button
+eldarya.es###treasure-hunt-result-actions .gold-button
+eldarya.hu###treasure-hunt-result-actions .gold-button
+eldarya.it###treasure-hunt-result-actions .gold-button
+eldarya.pl###treasure-hunt-result-actions .gold-button
+eldarya.ru###treasure-hunt-result-actions .gold-button
+eldarya.com###treasure-hunt-result-actions .gold-button
+eldarya.fr###treasure-hunt-result-actions .gold-button
