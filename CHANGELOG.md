@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.1.1]
+
+### Added
+
+- Facebook login button
+
 ## [1.1.0]
 
 ### Added
