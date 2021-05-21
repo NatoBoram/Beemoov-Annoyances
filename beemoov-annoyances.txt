@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.1.2
+! Version: 1.1.3
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -197,3 +197,15 @@ eldarya.pl###hatch-now-btn
 eldarya.ru###hatch-now-btn
 eldarya.com###hatch-now-btn
 eldarya.fr###hatch-now-btn
+
+! You are sure to win a new item!
+eldarya.com.br##.easter2021-button-buy-gold
+eldarya.br##.easter2021-button-buy-gold
+eldarya.de##.easter2021-button-buy-gold
+eldarya.es##.easter2021-button-buy-gold
+eldarya.hu##.easter2021-button-buy-gold
+eldarya.it##.easter2021-button-buy-gold
+eldarya.pl##.easter2021-button-buy-gold
+eldarya.ru##.easter2021-button-buy-gold
+eldarya.com##.easter2021-button-buy-gold
+eldarya.fr##.easter2021-button-buy-gold
