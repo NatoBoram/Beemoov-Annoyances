@@ -18,25 +18,31 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
-## [1.1.3]
+## [1.1.4] - 2021-05-25
+
+### Added
+
+- Added cookies button and banner
+
+## [1.1.3] - 2021-05-20
 
 ### Added
 
 - Added _You are sure to win a new item!_ scam button
 
-## [1.1.2]
+## [1.1.2] - 2021-05-06
 
 ### Added
 
 - Hatch now button
 
-## [1.1.1]
+## [1.1.1] - 2021-04-14
 
 ### Added
 
 - Facebook login button
 
-## [1.1.0]
+## [1.1.0] - 2021-04-14
 
 ### Added
 
