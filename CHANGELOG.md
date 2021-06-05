@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.1.5] - 2021-06-05
+
+### Added
+
+- Added messaging warning message
+
 ## [1.1.4] - 2021-05-25
 
 ### Added
