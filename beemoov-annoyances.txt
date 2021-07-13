@@ -4,7 +4,7 @@
 ! Homepage: https://gitlab.com/NatoBoram/Beemoov-Annoyances/
 ! License: https://www.gnu.org/licenses/gpl-3.0.html
 ! Support: https://gitlab.com/NatoBoram/Beemoov-Annoyances/issues
-! Version: 1.1.5
+! Version: 1.1.6
 
 ! Eldarya - Facebook Header
 eldarya.com.br###header-login-fb
@@ -20,6 +20,15 @@ eldarya.fr###header-login-fb
 
 ! Beemoov - Beemoov Banner
 beemoov.com###beemoov
+||beemoov.com/b44-br.js
+||beemoov.com/b44-de.js
+||beemoov.com/b44-es.js
+||beemoov.com/b44-hu.js
+||beemoov.com/b44-it.js
+||beemoov.com/b44-pl.js
+||beemoov.com/b44-ru.js
+||beemoov.com/b44-us.js
+||beemoov.com/b44-fr.js
 
 ! Ma Bimbo - Beemoov Banner
 ma-bimbo.com###beemoov
@@ -234,6 +243,9 @@ eldarya.ru###cookiescript_injected
 eldarya.com###cookiescript_injected
 eldarya.fr###cookiescript_injected
 
+! Cookies Script
+||cdn.cookie-script.com/s/536430c1840fb52008068388e7812be0.js
+
 ! Messaging Warning Message
 eldarya.com.br##.messaging-warning-message
 eldarya.br##.messaging-warning-message
@@ -245,3 +257,51 @@ eldarya.pl##.messaging-warning-message
 eldarya.ru##.messaging-warning-message
 eldarya.com##.messaging-warning-message
 eldarya.fr##.messaging-warning-message
+
+! Music Script
+||eldarya.com.br/static/event/2021/music/js/sound_*.js
+||eldarya.br/static/event/2021/music/js/sound_*.js
+||eldarya.de/static/event/2021/music/js/sound_*.js
+||eldarya.es/static/event/2021/music/js/sound_*.js
+||eldarya.hu/static/event/2021/music/js/sound_*.js
+||eldarya.it/static/event/2021/music/js/sound_*.js
+||eldarya.pl/static/event/2021/music/js/sound_*.js
+||eldarya.ru/static/event/2021/music/js/sound_*.js
+||eldarya.com/static/event/2021/music/js/sound_*.js
+||eldarya.fr/static/event/2021/music/js/sound_*.js
+
+! Music File
+||eldarya.com.br/static/event/2021/music/sounds/music.mp3
+||eldarya.br/static/event/2021/music/sounds/music.mp3
+||eldarya.de/static/event/2021/music/sounds/music.mp3
+||eldarya.es/static/event/2021/music/sounds/music.mp3
+||eldarya.hu/static/event/2021/music/sounds/music.mp3
+||eldarya.it/static/event/2021/music/sounds/music.mp3
+||eldarya.pl/static/event/2021/music/sounds/music.mp3
+||eldarya.ru/static/event/2021/music/sounds/music.mp3
+||eldarya.com/static/event/2021/music/sounds/music.mp3
+||eldarya.fr/static/event/2021/music/sounds/music.mp3
+
+! Music Adjustment
+eldarya.com.br###music-topbar>.volume-container
+eldarya.br###music-topbar>.volume-container
+eldarya.de###music-topbar>.volume-container
+eldarya.es###music-topbar>.volume-container
+eldarya.hu###music-topbar>.volume-container
+eldarya.it###music-topbar>.volume-container
+eldarya.pl###music-topbar>.volume-container
+eldarya.ru###music-topbar>.volume-container
+eldarya.com###music-topbar>.volume-container
+eldarya.fr###music-topbar>.volume-container
+
+! Music Audio
+eldarya.com.br###music2021-audio-theme
+eldarya.br###music2021-audio-theme
+eldarya.de###music2021-audio-theme
+eldarya.es###music2021-audio-theme
+eldarya.hu###music2021-audio-theme
+eldarya.it###music2021-audio-theme
+eldarya.pl###music2021-audio-theme
+eldarya.ru###music2021-audio-theme
+eldarya.com###music2021-audio-theme
+eldarya.fr###music2021-audio-theme
