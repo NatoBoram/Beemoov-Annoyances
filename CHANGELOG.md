@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.1.7] - 2021-10-28
+
+### Added
+
+* End exploration now button
+
 ## [1.1.6] - 2021-07-12
 
 ### Added
