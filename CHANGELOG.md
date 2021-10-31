@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ### Security
 
+## [1.1.9] - 2021-10-30
+
+### Fixed
+
+* Continue now wasn't exclusive to gold
+
 ## [1.1.8] - 2021-10-30
 
 ### Added
